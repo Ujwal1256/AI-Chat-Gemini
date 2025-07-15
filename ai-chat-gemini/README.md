@@ -22,7 +22,7 @@ A sleek, interactive AI-powered chatbot built using **React**, **TypeScript**, a
 
 ## 🚀 Demo
 
-> Coming soon (host on Vercel or Netlify)
+> (Demo link : https://ai-gemini-chat.netlify.app/ )
 
 ---
 
@@ -39,9 +39,4 @@ A sleek, interactive AI-powered chatbot built using **React**, **TypeScript**, a
 
 ---
 
-## 🔧 Setup Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/gemini-chatbot.git
-   cd gemini-chatbot
